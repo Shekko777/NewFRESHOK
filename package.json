@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "gulp-imagemin": "^7.1.0",
+    "slick-slider": "^1.8.2",
+    "urix": "^0.1.0"
+  },
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "build Vadim",
+  "main": "index.js",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cheerio": "^1.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^2.3.0",
+    "gulp-replace": "^1.1.3",
+    "gulp-sass": "^5.1.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "gulp-uglify-es": "^3.0.0",
+    "ion-rangeslider": "^2.3.1",
+    "jquery": "^3.6.0",
+    "jquery-form-styler": "^2.0.2",
+    "mixitup": "^3.3.1",
+    "rangeslider-js": "^3.2.5",
+    "rateyo": "^2.3.2",
+    "sass": "^1.47.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Artem",
+  "license": "ISC"
+}
